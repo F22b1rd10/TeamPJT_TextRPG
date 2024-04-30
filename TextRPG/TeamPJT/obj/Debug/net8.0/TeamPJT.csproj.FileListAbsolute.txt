@@ -1,0 +1,14 @@
+C:\Users\kdh32\OneDrive\바탕 화면\TeamPJT\TeamPJT\bin\Debug\net8.0\TeamPJT.exe
+C:\Users\kdh32\OneDrive\바탕 화면\TeamPJT\TeamPJT\bin\Debug\net8.0\TeamPJT.deps.json
+C:\Users\kdh32\OneDrive\바탕 화면\TeamPJT\TeamPJT\bin\Debug\net8.0\TeamPJT.runtimeconfig.json
+C:\Users\kdh32\OneDrive\바탕 화면\TeamPJT\TeamPJT\bin\Debug\net8.0\TeamPJT.dll
+C:\Users\kdh32\OneDrive\바탕 화면\TeamPJT\TeamPJT\bin\Debug\net8.0\TeamPJT.pdb
+C:\Users\kdh32\OneDrive\바탕 화면\TeamPJT\TeamPJT\obj\Debug\net8.0\TeamPJT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kdh32\OneDrive\바탕 화면\TeamPJT\TeamPJT\obj\Debug\net8.0\TeamPJT.AssemblyInfoInputs.cache
+C:\Users\kdh32\OneDrive\바탕 화면\TeamPJT\TeamPJT\obj\Debug\net8.0\TeamPJT.AssemblyInfo.cs
+C:\Users\kdh32\OneDrive\바탕 화면\TeamPJT\TeamPJT\obj\Debug\net8.0\TeamPJT.csproj.CoreCompileInputs.cache
+C:\Users\kdh32\OneDrive\바탕 화면\TeamPJT\TeamPJT\obj\Debug\net8.0\TeamPJT.dll
+C:\Users\kdh32\OneDrive\바탕 화면\TeamPJT\TeamPJT\obj\Debug\net8.0\refint\TeamPJT.dll
+C:\Users\kdh32\OneDrive\바탕 화면\TeamPJT\TeamPJT\obj\Debug\net8.0\TeamPJT.pdb
+C:\Users\kdh32\OneDrive\바탕 화면\TeamPJT\TeamPJT\obj\Debug\net8.0\TeamPJT.genruntimeconfig.cache
+C:\Users\kdh32\OneDrive\바탕 화면\TeamPJT\TeamPJT\obj\Debug\net8.0\ref\TeamPJT.dll
